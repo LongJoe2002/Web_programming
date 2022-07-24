@@ -10,3 +10,7 @@ hr {
     border-color: grey;
     width: 10%;
 }
+
+h1,h2,h3 {
+    color: rgb(9, 115, 115);
+}
